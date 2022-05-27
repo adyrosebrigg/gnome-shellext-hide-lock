@@ -1,0 +1,10 @@
+{
+  "name": "Hide Lock item in System Menu",
+  "description": "Hides the \"Lock\" option from the system menu dropdown in the top right.",
+  "uuid": "gnome-shellext-hide-lock@adyrosebrigg",
+  "url": "https://github.com/adyrosebrigg/gnome-shellext-hide-lock",
+  "shell-version": [
+    "42"
+  ],
+  "version": 1
+}
