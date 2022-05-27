@@ -1,4 +1,4 @@
-# gnome-shellext-hide-lock-adyrosebrigg
+# gnome-shellext-hide-lock
  GNOME Shell Extension to hide the Screen Lock menuitem
 
 I simply never use the "Lock" item in the System Menu (except by accident), so after a quick search for an extension like this came up empty, I decided to make one. Tested solely on GNOME 42/Ubuntu 22.04 because this is just a quick personal fixup, but I'll put it on the extensions site in case anyone else wants to try it on their system.
