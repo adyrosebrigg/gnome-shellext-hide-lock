@@ -1,3 +1,5 @@
+**NOTICE: I have archived this repository along with most of my others because I no longer have time to maintain them. Feel free to fork per the licence of any given repo, and have fun! Hope you can put the code to good use.**
+
 # gnome-shellext-hide-lock
  GNOME Shell Extension to hide the Screen Lock menuitem
 
